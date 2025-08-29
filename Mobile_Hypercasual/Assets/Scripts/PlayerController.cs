@@ -3,6 +3,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
+
+    public GameSaveManager saveManager;
+
+
     public float jumpForce = 5f;      // Força do pulo
     private Rigidbody2D rb;
     private bool isAlive = true;
@@ -10,7 +14,11 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        if (saveManager != null)
+            transform.position = saveManager.LoadPlayerPosition();
+
     }
+
 
     void Update()
     {
