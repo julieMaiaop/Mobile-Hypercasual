@@ -22,6 +22,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+
+
         if (!isAlive) return;
 
         // Pulo com clique esquerdo
