@@ -6,14 +6,28 @@ public class SpanwDosCanos : MonoBehaviour
     public float spawnRate = 2f;
     public float heightOffset = 2f;
 
-    private void Start()
+    private float timer = 0f;
+
+    void Update()
     {
-        InvokeRepeating("SpawnPipe", 0f, spawnRate);
+        // Cronômetro simples
+        if (timer < spawnRate)
+        {
+            timer += Time.deltaTime;
+        }
+        else
+        {
+            SpawnPipe();
+            timer = 0f;
+        }
     }
 
     void SpawnPipe()
     {
         float randomY = Random.Range(-heightOffset, heightOffset);
-        Instantiate(pipePrefab, new Vector3(10, randomY, 0), Quaternion.identity);
+        Vector3 spawnPos = new Vector3(transform.position.x, randomY, 0);
+        Instantiate(pipePrefab, spawnPos, Quaternion.identity);
     }
+
+  
 }

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BirdController : MonoBehaviour
 {
-    public float jumpForce = 5f; // for�a do pulo
+    public float jumpForce = 5f;
     private Rigidbody2D rb;
 
     void Start()
@@ -12,7 +12,7 @@ public class BirdController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0)) // toque na tela
+        if (Input.GetMouseButtonDown(0)) // clique ou toque na tela
         {
             rb.linearVelocity = Vector2.up * jumpForce;
         }
@@ -20,8 +20,6 @@ public class BirdController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // P�ssaro morreu
-        Debug.Log("Game Over");
-        Time.timeScale = 0; // pausa o jogo
+        GameManeger.instance.GameOver();
     }
 }
