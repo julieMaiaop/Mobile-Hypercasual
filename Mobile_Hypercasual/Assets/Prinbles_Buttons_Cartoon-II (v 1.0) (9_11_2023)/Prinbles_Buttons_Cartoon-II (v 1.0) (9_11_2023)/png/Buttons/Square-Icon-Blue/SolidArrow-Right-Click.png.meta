@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SolidArrow-Right-Click_0: -2687248202419845411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

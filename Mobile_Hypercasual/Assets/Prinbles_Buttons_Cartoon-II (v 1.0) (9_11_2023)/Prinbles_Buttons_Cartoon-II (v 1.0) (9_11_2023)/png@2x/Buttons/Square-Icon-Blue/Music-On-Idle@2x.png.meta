@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Music-On-Idle@2x_0: 8712887348320821591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '@Rect-Magenta_0': -5694032825315016504
+      '@Rect-Magenta_1': 8553493743838131290
+      '@Rect-Magenta_2': 4317674636663370152
+      '@Rect-Magenta_3': -3077671449399550352
+      '@Rect-Magenta_4': -1307299329437592097
+      '@Rect-Magenta_5': -1565968417355908361
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

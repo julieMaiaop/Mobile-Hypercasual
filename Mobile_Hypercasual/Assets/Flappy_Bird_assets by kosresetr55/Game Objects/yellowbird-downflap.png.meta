@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      yellowbird-downflap_0: 6437894598648814375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

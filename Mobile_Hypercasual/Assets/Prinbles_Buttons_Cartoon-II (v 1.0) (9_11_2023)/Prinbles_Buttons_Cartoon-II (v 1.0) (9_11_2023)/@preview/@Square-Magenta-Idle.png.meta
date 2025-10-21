@@ -1010,7 +1010,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '@Square-Magenta-Idle_0': -2054335166578472748
+      '@Square-Magenta-Idle_1': -4283532452947311202
+      '@Square-Magenta-Idle_10': -371279686360512880
+      '@Square-Magenta-Idle_11': 3706308972728707763
+      '@Square-Magenta-Idle_12': 8864694139949971701
+      '@Square-Magenta-Idle_13': 3815388892351219928
+      '@Square-Magenta-Idle_14': -6585846798377006983
+      '@Square-Magenta-Idle_15': -7284034166597981958
+      '@Square-Magenta-Idle_16': -7053882025238179196
+      '@Square-Magenta-Idle_17': 4909600860904478465
+      '@Square-Magenta-Idle_18': 5607051048271678235
+      '@Square-Magenta-Idle_19': -8653619903232559612
+      '@Square-Magenta-Idle_2': 1707725930432594246
+      '@Square-Magenta-Idle_20': 3412403971080023411
+      '@Square-Magenta-Idle_21': -9124776498236541629
+      '@Square-Magenta-Idle_22': 134601798280758424
+      '@Square-Magenta-Idle_23': -8558599687534256279
+      '@Square-Magenta-Idle_24': -175448828089526643
+      '@Square-Magenta-Idle_25': -7751259530068277911
+      '@Square-Magenta-Idle_26': 5480317350837401437
+      '@Square-Magenta-Idle_27': -1889443395060790430
+      '@Square-Magenta-Idle_28': 5246284039387042344
+      '@Square-Magenta-Idle_29': -4911256989032922700
+      '@Square-Magenta-Idle_3': -1484270568725989005
+      '@Square-Magenta-Idle_30': -3164350701988338718
+      '@Square-Magenta-Idle_31': 6784179701439361574
+      '@Square-Magenta-Idle_32': 4735189061933420395
+      '@Square-Magenta-Idle_33': 8886318489293163541
+      '@Square-Magenta-Idle_34': 1010284434842602158
+      '@Square-Magenta-Idle_4': 3856753611265642178
+      '@Square-Magenta-Idle_5': -8277356897915443679
+      '@Square-Magenta-Idle_6': -8437745357974124527
+      '@Square-Magenta-Idle_7': 2950122121585135526
+      '@Square-Magenta-Idle_8': 1427959678808701450
+      '@Square-Magenta-Idle_9': -276554634526573624
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

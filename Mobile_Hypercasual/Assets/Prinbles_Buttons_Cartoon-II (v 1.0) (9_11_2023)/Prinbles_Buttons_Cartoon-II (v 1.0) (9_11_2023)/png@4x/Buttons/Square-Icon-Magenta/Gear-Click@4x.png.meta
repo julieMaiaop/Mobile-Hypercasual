@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gear-Click@4x_0: 413792837387691587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
