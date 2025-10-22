@@ -6,7 +6,7 @@ public class MenuController : MonoBehaviour
     public void PlayGame()
     {
         // Troca para a cena do jogo (coloque o nome da sua cena do jogo)
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("testecenaPrinc@");
     }
 
     // Função para o botão Exit
