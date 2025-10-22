@@ -7,6 +7,6 @@ public class RestartGame : MonoBehaviour
     public void Restart()
     {
         Time.timeScale = 1f; // garante que o tempo volte ao normal
-        SceneManeger.LoadScene(SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
