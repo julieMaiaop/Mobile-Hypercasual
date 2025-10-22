@@ -831,7 +831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.07497175, g: 0.065592736, b: 0.20754719, a: 0.8352941}
+  m_Color: {r: 0.07497175, g: 0.065592736, b: 0.20754719, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -977,7 +977,6 @@ RectTransform:
   - {fileID: 720333615}
   - {fileID: 1733599975}
   - {fileID: 747250308}
-  - {fileID: 1641047976}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1088,7 +1087,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Deseja evoluir seu bird?
+  m_text: Deseja evoluir a cor seu bird?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 806ecd9829833ab41b775eff3a712b16, type: 2}
   m_sharedMaterial: {fileID: -7242602450128513941, guid: 806ecd9829833ab41b775eff3a712b16, type: 2}
@@ -9416,17 +9415,17 @@ RectTransform:
   m_GameObject: {fileID: 1641047975}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 392098425}
-  m_Father: {fileID: 399401080}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0, y: 0}
 --- !u!114 &1641047977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11083,6 +11082,7 @@ SceneRoots:
   - {fileID: 1247455355}
   - {fileID: 1261607132}
   - {fileID: 1368894575}
+  - {fileID: 1641047976}
   - {fileID: 2011892148}
   - {fileID: 1490885149}
   - {fileID: 399401080}
