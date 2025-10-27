@@ -8,6 +8,7 @@ TagManager:
   - Coin
   - Estrelinha
   - Cano
+  - Pipe
   layers:
   - Default
   - TransparentFX

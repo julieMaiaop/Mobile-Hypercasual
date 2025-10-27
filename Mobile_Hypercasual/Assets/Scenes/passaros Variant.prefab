@@ -164,6 +164,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: passaros Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3312828671929175107, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
     m_RemovedGameObjects:

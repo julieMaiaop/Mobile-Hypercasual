@@ -254,6 +254,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CanoDeBaixo (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -888,6 +892,14 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3261391752274326535, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
+    - target: {fileID: 5429381105071141296, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6911215633971724563, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -895,6 +907,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1148,6 +1164,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ParDeCAnos@ (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1380,6 +1400,10 @@ PrefabInstance:
     - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Name
       value: CanoDeBaixo (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
@@ -1975,6 +1999,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: estrela (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2352,6 +2380,10 @@ PrefabInstance:
     - target: {fileID: 8604389280775962102, guid: 42ec6c8d38cd2344bbd8c50c5ee4d04a, type: 3}
       propertyPath: m_Name
       value: Circle (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604389280775962102, guid: 42ec6c8d38cd2344bbd8c50c5ee4d04a, type: 3}
+      propertyPath: m_TagString
+      value: Coin
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3272,6 +3304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: estrela
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3478,6 +3514,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5429381105071141296, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6911215633971724563, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -3485,6 +3525,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3840,6 +3884,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: estrela (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -4011,6 +4059,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4654,6 +4706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CanoDeBaixo (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -4810,6 +4866,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1cf9cfdd352eab74fbd49f6573f6996c, type: 3}
+--- !u!1 &1065071885 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6693872763666628202, guid: 0025d72be81ccf24b90c667adec0a2bb, type: 3}
+  m_PrefabInstance: {fileID: 343475091393344936}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1085094561
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10110,6 +10171,118 @@ SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 6772126816170884474, guid: 0025d72be81ccf24b90c667adec0a2bb, type: 3}
   m_PrefabInstance: {fileID: 343475091393344936}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &1261607135
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065071885}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.476
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1261607136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065071885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4052a333181180b4ab34676ffb4b5d8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSound
+  audioSource: {fileID: 1261607135}
+  hitSound: {fileID: 8300000, guid: 29a81697017ac724cb14130cc4822d70, type: 3}
+  coinSound: {fileID: 8300000, guid: 5f67e3d8b76a29946b437fc94e0a7fd9, type: 3}
 --- !u!1001 &1263583463
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10388,6 +10561,10 @@ PrefabInstance:
     - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Name
       value: estrela (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
@@ -10741,6 +10918,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CanoDeBaixo (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -10770,7 +10951,7 @@ GameObject:
   - component: {fileID: 1368894575}
   m_Layer: 0
   m_Name: tODOSOSCANOS
-  m_TagString: Untagged
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11583,6 +11764,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CanoDeBaixo (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -11744,6 +11929,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -9.3413
       objectReference: {fileID: 0}
+    - target: {fileID: 5429381105071141296, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6911215633971724563, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -11751,6 +11940,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11777,7 +11970,7 @@ GameObject:
   - component: {fileID: 1641047977}
   m_Layer: 5
   m_Name: CanvasEscurecer
-  m_TagString: Untagged
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11930,6 +12123,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5429381105071141296, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6911215633971724563, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -11937,6 +12134,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12002,6 +12203,10 @@ PrefabInstance:
     - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Name
       value: CanoDeBaixo (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
@@ -12264,6 +12469,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: estrela (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -12349,6 +12558,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12505,6 +12718,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12737,6 +12954,10 @@ PrefabInstance:
     - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Name
       value: estrela (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
@@ -13110,6 +13331,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CanoDeBaixo (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3945651129513290453, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 7175751714657467919, guid: 80e5eb413d9dadb41870ce47146e5c9d, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -13257,6 +13482,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13787,6 +14016,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5429381105071141296, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6911215633971724563, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -13794,6 +14027,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@ (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14012,7 +14249,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6693872763666628202, guid: 0025d72be81ccf24b90c667adec0a2bb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1261607136}
+    - targetCorrespondingSourceObject: {fileID: 6693872763666628202, guid: 0025d72be81ccf24b90c667adec0a2bb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1261607135}
   m_SourcePrefab: {fileID: 100100000, guid: 0025d72be81ccf24b90c667adec0a2bb, type: 3}
 --- !u!1001 &7415975130726252574
 PrefabInstance:
@@ -14149,6 +14392,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5429381105071141296, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6911215633971724563, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -14156,6 +14403,10 @@ PrefabInstance:
     - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
       propertyPath: m_Name
       value: ParDeCAnos@
+      objectReference: {fileID: 0}
+    - target: {fileID: 9132175265131749922, guid: 272002776cfc67249a8f83f1e131a6a1, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14221,6 +14472,10 @@ PrefabInstance:
     - target: {fileID: 8604389280775962102, guid: 42ec6c8d38cd2344bbd8c50c5ee4d04a, type: 3}
       propertyPath: m_Name
       value: Circle
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604389280775962102, guid: 42ec6c8d38cd2344bbd8c50c5ee4d04a, type: 3}
+      propertyPath: m_TagString
+      value: Coin
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
