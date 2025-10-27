@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c7401bf1880ec9740b65e99a694ae325
+guid: 005f3f98c018e824cb5e39e6e928cc3e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6937817954938267909
-    second: 2_0
+      213: 3283076842001410744
+    second: pixel-8bit-star-object-como-elemento-de-estilo-de-videogame-ilustracao-vetorial-pixelizado-simbolo-criativo-e-icone_178650-13039_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2_0
+      name: pixel-8bit-star-object-como-elemento-de-estilo-de-videogame-ilustracao-vetorial-pixelizado-simbolo-criativo-e-icone_178650-13039_0
       rect:
         serializedVersion: 2
-        x: 245
-        y: 223
-        width: 23
-        height: 23
+        x: 19
+        y: 19
+        width: 162
+        height: 162
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5092c600ca4184060800000000000000
-      internalID: 6937817954938267909
+      spriteID: 8ba2ec94ef4df8d20800000000000000
+      internalID: 3283076842001410744
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      2_0: 6937817954938267909
+      pixel-8bit-star-object-como-elemento-de-estilo-de-videogame-ilustracao-vetorial-pixelizado-simbolo-criativo-e-icone_178650-13039_0: 3283076842001410744
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
